@@ -23,3 +23,6 @@ https://www.linkedin.com/in/your-linkedin-id
 
 Email:
 prajwalk2200@gmail.com
+
+leetcode:
+https://www.linkedin.com/in/prajwal-k-68266937a
