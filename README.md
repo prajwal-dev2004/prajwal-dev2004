@@ -25,4 +25,4 @@ Email:
 prajwalk2200@gmail.com
 
 leetcode:
-https://www.linkedin.com/in/prajwal-k-68266937a
+https://leetcode.com/u/PRAJWAL_K2004/
