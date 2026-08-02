@@ -14,7 +14,7 @@
 - Git
 - GitHub
 - JavaScript
-- AWS
+- AWS[EC2,S3]
 
 ## Contact
 
