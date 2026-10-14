@@ -15,6 +15,12 @@
 - GitHub
 - JavaScript
 - AWS[EC2,S3]
+- React JS
+- Hibernate
+- SpringBoot
+- HTML
+- CSS
+- 
 
 ## Contact
 
