@@ -14,29 +14,29 @@
 
 ## Skills
 
-# Programming Languages
+### Programming Languages
 
 - Java
 
-# Frontend Development
+### Frontend Development
 
 - HTML, CSS,JavaScript,React.js
 
-# Backend Development
+### Backend Development
 
 - Spring Boot, Hibernate
 
-# Database
+### Database
 
 - MySQL
 
-# Tools & Cloud
+### Tools & Cloud
 
 - Git, GitHub, AWS (EC2, S3)
 
 ## 🚀 Projects
 
-# 📚 Course Management System
+### 📚 Course Management System
 
 A web application for managing courses, viewing course details, and handling course enrollment.
 
@@ -44,7 +44,7 @@ Technologies: React.js, JavaScript, HTML, CSS, and your backend technologies.
 
 🔗 [View Project on GitHub](https://github.com/prajwal-dev2004/Course-Management-System)
 
-# Features:
+ #### Features:
 
 - User login and registration
 
