@@ -40,18 +40,15 @@
 
 A web application for managing courses, viewing course details, and handling course enrollment.
 
-Technologies: React.js, JavaScript, HTML, CSS, and your backend technologies.
+**Technologies Used:** React.js, JavaScript, HTML, CSS, JSON Server (Mock REST API).
 
 🔗 [View Project on GitHub](https://github.com/prajwal-dev2004/Course-Management-System)
 
  #### Features:
-
+ 
 - User login and registration
-
 - View course details
-
 - Admin course management
-
 - Add courses to cart
 
 ## Contact
