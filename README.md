@@ -2,25 +2,57 @@
 
 ## About Me
 
-- 🎓 Computer Science Student
-- 💻 Java Full Stack Developer
-- 🌱 Learning AWS
-- 📚 Practicing DSA
+- 🎓 Computer Science and Engineering (Data Science) graduate
+
+- 💻 Aspiring Java Full Stack Developer
+
+- 🌱 Currently learning AWS and cloud technologies
+
+- 📚 Practicing Data Structures and Algorithms (DSA)
+
+- 🚀 Building projects using Java, Spring Boot, React, and SQL
 
 ## Skills
 
-- Java
-- SQL
-- Git
-- GitHub
-- JavaScript
-- AWS[EC2,S3]
-- React JS
-- Hibernate
-- SpringBoot
-- HTML
-- CSS
-- 
+Programming Languages
+
+Java
+
+Frontend Development
+
+HTML, CSS,JavaScript,React.js
+
+Backend Development
+
+Spring Boot, Hibernate
+
+Database
+
+MySQL
+
+Tools & Cloud
+
+Git, GitHub, AWS (EC2, S3)
+
+🚀 Projects
+
+📚 Course Management System
+
+A web application for managing courses, viewing course details, and handling course enrollment.
+
+Technologies: React.js, JavaScript, HTML, CSS, and your backend technologies.
+
+🔗 [View Project on GitHub](https://github.com/prajwal-dev2004/Course-Management-System)
+
+Features:
+
+User login and registration
+
+View course details
+
+Admin course management
+
+Add courses to cart
 
 ## Contact
 
