@@ -20,7 +20,7 @@
 
 ### Frontend Development
 
-- HTML, CSS,JavaScript,React.js
+- HTML, CSS, JavaScript, React.js
 
 ### Backend Development
 
@@ -59,5 +59,5 @@ https://www.linkedin.com/in/your-linkedin-id
 Email:
 prajwalk2200@gmail.com
 
-leetcode:
+Leetcode:
 https://leetcode.com/u/PRAJWAL_K2004/
